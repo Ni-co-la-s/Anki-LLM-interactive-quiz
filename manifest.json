@@ -1,0 +1,9 @@
+{
+    "name": "LLM Interactive Quiz",
+    "package": "llm_quiz",
+    "ankiweb_id": "",
+    "author": "Ni-co-la-s",
+    "version": "0.1.0",
+    "homepage": "",
+    "conflicts": []
+  }
